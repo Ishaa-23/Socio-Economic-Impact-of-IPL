@@ -62,5 +62,5 @@ Excel, Power BI, DAX Functions
   * Replace gambling ads with educational content on financial literacy, including mutual funds, targeting ≥10 million viewers yearly.
 
 # Links
-[![Portfolio]([https://img.shields.io/badge/MY%20PORTFOLIO-black?style=for-the-badge&logo=github)](https://www.datascienceportfol.io/ishaaabdul23](https://ishaa-23.github.io/))
+[![Portfolio]([https://img.shields.io/badge/MY%20PORTFOLIO-black?style=for-the-badge&logo=github)](https://ishaa-23.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishaa-abdul-63b079217/)
