@@ -25,3 +25,32 @@ Excel, Power BI, DAX Functions
 * Estimated Public Health Costs due to exposure to harmful products 🏥💰
 
 # Insights
+* Jio Cinema contributes 47% of IPL 2025’s advertising revenue
+* Star Sports also contributes 47% of IPL 2025’s advertising revenue.
+* Dream11 and Vimal Elaichi together account for ₹12,000 crore in ad revenue.
+* Digital streaming and TV broadcasters each spend ₹24,000 crore on sponsorship.
+* Title sponsorship accounts for ₹3,000 crore.
+* Associate partnerships account for ₹1,000 crore.
+* Dream11 revenue projected to grow from ₹6,000 crore to ₹21,000 crore by 2030.
+* Vimal Elaichi revenue projected to grow from ₹5,000 crore to ₹15,000 crore by 2030.\
+* My11Circle projected to reach ₹7,000 crore in revenue by 2030.
+* Middle-income group impacted equally by fantasy apps and pan masala ads (1,500 million each).
+* Lower-income group faces highest pan masala exposure (2,100 million).
+* Fantasy apps influence 1,500 million middle-income and 540 million upper-middle-income individuals.
+* Carcinogenic surrogate ads impact over 3,960 million people.
+* Gambling-related promotions affect 1,500 million middle-income and 540 million upper-middle-income people.
+* High-risk brands Kamla Pasand, Rajshree, and Vishnu Packaging cause up to 33% financial losses and ₹177,000 crore health costs per brand.
+* Lower-income groups (<₹3 lakh/year) are the most affected demographic, followed by middle-income (₹3–7 lakh/year).
+* Urban and rural consumers constitute 82% of the high-risk brand customer base.
+* 60% of celebrities endorse high-risk brands linked to cancer and gambling.
+* Ajay Devgn, Akshay Kumar, and Shah Rukh Khan score highest in celebrity influence on tobacco promotion.
+* Aamir Khan and Amitabh Bachchan prominently endorse gambling during IPL.
+* IPL generates 43% employment in hospitality and 16% in the digital sector.
+* Jio Cinema’s 2025 tax collection is ₹1000 crore, with a projected ₹4,300 crore from 2025-2028.
+* Star Sports collected ₹800 crore in 2025 taxes, projecting ₹4,200 crore by 2028.
+
+  # Recommendations
+  **1. Framework to Increase IPL Economic Benefits & Minimize Social Impact**
+  * Allocate ≥30% of IPL revenue to local infrastructure and small business support annually.
+  * Establish partnerships with ≥10 training institutes per year to train ≥5,000 youth in sectors like event management, digital marketing, logistics, and social media.
+  * Track and increase seasonal employment in IPL-associated sectors by ≥15% year-over-year.
