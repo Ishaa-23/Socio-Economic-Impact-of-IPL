@@ -54,3 +54,13 @@ Excel, Power BI, DAX Functions
   * Allocate ≥30% of IPL revenue to local infrastructure and small business support annually.
   * Establish partnerships with ≥10 training institutes per year to train ≥5,000 youth in sectors like event management, digital marketing, logistics, and social media.
   * Track and increase seasonal employment in IPL-associated sectors by ≥15% year-over-year.
+
+  **2. Hypothetical Responsible Advertising Policy for IPL**
+  * Ban advertising of all high-health-risk brands (tobacco, pan masala, gambling) in IPL media and venues.
+  * Launch anti-tobacco and anti-gambling campaigns reaching ≥50 million viewers annually, focusing on rural and urban sectors.
+  * Partner with ≥5 health and fitness brands each season to promote healthy lifestyles through IPL broadcasts.
+  * Replace gambling ads with educational content on financial literacy, including mutual funds, targeting ≥10 million viewers yearly.
+
+# Links
+[![Portfolio]([https://img.shields.io/badge/MY%20PORTFOLIO-black?style=for-the-badge&logo=github)](https://www.datascienceportfol.io/ishaaabdul23](https://ishaa-23.github.io/))
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishaa-abdul-63b079217/)
