@@ -9,7 +9,10 @@ With over half of IPL's ads tied to these industries, there is growing debate ar
 ![image](https://github.com/user-attachments/assets/ff67d0a9-2278-48cf-aff0-76f71854f672)
 
 # Dashboard
-![IPL Dashboard GIF](https://github.com/user-attachments/assets/4267521a-b25d-48d2-a260-c4f01ff0149b)
+![Screenshot 2025-05-22 145001](https://github.com/user-attachments/assets/c7fed1b4-ccd3-42a9-8fe4-3f9e982fc9d8)
+![Screenshot 2025-05-22 145013](https://github.com/user-attachments/assets/d298c891-0060-466b-94cb-230179c4d5e6)
+![Screenshot 2025-05-22 145020](https://github.com/user-attachments/assets/32b93e83-5bcd-430f-8f8a-4bbd4f0db570)
+![Screenshot 2025-05-22 145026](https://github.com/user-attachments/assets/9347e011-39d6-4c93-baaa-e024a51ce115)
 
 # Tech Stack
 Excel, Power BI, DAX Functions
